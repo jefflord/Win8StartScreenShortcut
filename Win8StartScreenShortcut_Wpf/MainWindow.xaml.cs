@@ -16,7 +16,9 @@ namespace Win8StartScreenShortcut_Wpf
     public partial class MainWindow : Window
     {
         private const String APP_ID = "JL.Win8StartScreenShortcut";
-        
+        private const String X1 = "JL.Win8StartScreenShortcut";
+
+
         public MainWindow()
         {
             InitializeComponent();
